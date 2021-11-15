@@ -2,4 +2,4 @@
 
 ---
 
-### Just run it and have fun! 😀# tic-tac-toe
+### Just run it and have fun! 😀
